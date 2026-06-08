@@ -1,5 +1,4 @@
+zImage
 *.img
-assets/
-release/
-*.zip
-deep_dive.txt
+*.bin
+*.ko
